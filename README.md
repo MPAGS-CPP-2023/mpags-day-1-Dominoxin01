@@ -7,3 +7,4 @@ Nothing to do yet.
 Dominik Stajkowski
 
 # Documentation
+This is information.
