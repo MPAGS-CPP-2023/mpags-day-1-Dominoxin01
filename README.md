@@ -5,3 +5,5 @@ A simple command line tool for encrypting/decrypting text using classical cipher
 Nothing to do yet.
 # Authors
 Dominik Stajkowski
+
+# Documentation
